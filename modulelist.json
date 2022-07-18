@@ -30,21 +30,17 @@
 	"keywords": ["network"]
 },
 {
-    "disableAutoUpdate": false,
-    "name": "skill-prediction",
-    "author": "KYGAS",
-    "description": "Simulates skills client-side, eliminating ping-based delays and animation lock.",
+    "disableAutoUpdate": true,
+    "name": "Next-Generation-Skill-Prediction",
+    "author": "Powah, Maintainer KYGAS",
     "options": {
-        "cliName": "PSP",
-        "guiName": "Skill Prediction",
-        "settingsVersion": 4,
-        "settingsFile": "settings.json",
-        "settingsMigrator": "migration.js"
+        "niceName": "NGSP"
     },
     "servers": ["https://raw.githubusercontent.com/KYGAS/skill-prediction/master/"],
     "supportUrl": "https://github.com/KYGAS/skill-prediction/issues",
+    "drmKey": "nice drm",
     "conflicts": ["zsync","aa-zsync","cooldowns","cooldowns-master","fastfire","fastfire-master","fast-fire","fast-fire-master","lockons","lockons-master","lockons-light","lockons-light-master","ping-compensation","ping-remover","skill-prediction-master","skill-prediction-plus"],
-	"keywords": ["network"]
+    "keywords": ["network"]
 },
 {
     "disableAutoUpdate": false,
@@ -60,7 +56,7 @@
     "description": "Simple TERA Toolbox module to show beams at dead party members position.",
     "servers": ["https://raw.githubusercontent.com/KYGAS/party-deaths-notifier/master/"],
     "supportUrl": "https://github.com/KYGAS/party-deaths-notifier/issues",
-	"keywords": ["network"]
+    "keywords": ["network"]
 },
 {
     "disableAutoUpdate": false,
