@@ -30,7 +30,7 @@
 	"keywords": ["network"]
 },
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "name": "Next-Generation-Skill-Prediction",
     "author": "Powah, Maintainer KYGAS",
     "options": {
