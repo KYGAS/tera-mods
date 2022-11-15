@@ -276,6 +276,7 @@
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/KYGAS/auto-lockon-100/master/"]
+    "servers": ["https://raw.githubusercontent.com/KYGAS/auto-lockon-100/master/"],
+    "keywords": ["network"]
 }
 ]
