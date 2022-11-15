@@ -263,5 +263,19 @@
     "servers": ["https://raw.githubusercontent.com/KYGAS/AFKer/master/"],
     "supportUrl": "https://github.com/KYGAS/AFKer/issues",
 	"keywords": ["network"]
+},
+{
+    "disableAutoUpdate": false,
+    "name": "auto-heal",
+    "author": "KYGAS/teralove",
+    "description": "Auto lockon and instantly heal/cleanse party members.",
+    "version": "109.02",
+    "options": {
+        "niceName": "Auto Heal",
+        "settingsVersion": 4,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/KYGAS/auto-lockon-100/master/"]
 }
 ]
